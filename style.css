@@ -1,0 +1,16 @@
+body
+{
+background-image: linear-gradient(to right top, #33f1d8, #d787fc, #d451c3, #89d6ff, #24ccff);
+}
+
+h3{
+    font: size 20px;;
+    color:#0f0f0f;
+}
+
+.line{
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:8px auto;
+}
